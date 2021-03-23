@@ -1,0 +1,23 @@
+{
+    "1": [
+        {
+            "speaker0": "node model.js",
+            "speaker1": "python pipeline.py",
+            "speaker2": "node test.js",
+            "bejkpqrstw": {
+                "input": [
+                    2,
+                    21,
+                    61
+                ],
+                "output": [
+                    75,
+                    69,
+                    88
+                ]
+            },
+            "round": "speaker2"
+        }
+    ],
+    "main": "1"
+}
